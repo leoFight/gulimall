@@ -1,0 +1,17 @@
+package com.leofight.gulimall.product.dao;
+
+import com.leofight.gulimall.product.entity.AttrGroupEntity;
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import org.apache.ibatis.annotations.Mapper;
+
+/**
+ * 属性分组
+ * 
+ * @author fly
+ * @email fly@gmail.com
+ * @date 2020-09-06 09:56:49
+ */
+@Mapper
+public interface AttrGroupDao extends BaseMapper<AttrGroupEntity> {
+	
+}

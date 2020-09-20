@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd06febe-9b17-430b-9e80-45b1dbc4ca0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gulimall-common/src/main/java/com/leofight/common/utils/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulimall-common/src/main/java/com/leofight/common/utils/RRException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulimall-common/src/main/java/com/leofight/common/xss/HTMLFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulimall-common/src/main/java/com/leofight/common/xss/SQLFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guilimall-product/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-product/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guilimall-product/src/main/java/com/leofight/gulimall/product/GuilimallProductApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/guilimall-product/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/guilimall-product/src/test/java/com/leofight/gulimall/product/GuilimallProductApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-product/src/test/java/com/leofight/gulimall/product/GuilimallProductApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-coupon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-coupon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-coupon/src/main/java/com/leofight/gulimall/coupon/GulimallCouponApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-coupon/src/main/java/com/leofight/gulimall/coupon/GulimallCouponApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-coupon/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-coupon/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-member/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-member/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-member/src/main/java/com/leofight/gulimall/member/GulimallMemberApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-member/src/main/java/com/leofight/gulimall/member/GulimallMemberApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-order/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-ware/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-ware/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-ware/src/main/java/com/leofight/guilimall/ware/GulimallWareApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-ware/src/main/java/com/leofight/gulimall/ware/GulimallWareApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.3-bin/1iopthnavndlasol9gbrbg6bf2/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h52SyIaKY56vCCls9yUNJMFWzu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gulimall-ware/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.52528733" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.leofight.gulimall.product" />
+      <recent name="com.leofight.gulimall.coupon" />
+      <recent name="com.leofight.common.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gulimall-ware/src/main/resources" />
+      <recent name="$PROJECT_DIR$/gulimall-order/src/main/resources" />
+      <recent name="$PROJECT_DIR$/gulimall-member/src/main/resources" />
+      <recent name="$PROJECT_DIR$/gulimall-coupon/src/main/resources" />
+      <recent name="$PROJECT_DIR$/gulimall-common/src/main/java/com/leofight/common/xss" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GulimallCouponApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuilimallProductApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gulimall-product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leofight.gulimall.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leofight.gulimall.product" />
+      <option name="MAIN_CLASS_NAME" value="com.leofight.gulimall.product.GuilimallProductApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="gulimall-product" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="gulimall-product" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallCouponApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-coupon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leofight.gulimall.coupon.GulimallCouponApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gulimall-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leofight.gulimall.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leofight.gulimall.gateway.GulimallGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallMemberApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-member" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leofight.gulimall.member.GulimallMemberApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leofight.gulimall.order.GulimallOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leofight.gulimall.product.GulimallProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallWareApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-ware" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leofight.gulimall.ware.GulimallWareApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenrenApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="renren-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.renren.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.renren.RenrenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenrenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="renren-fast" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.renren.RenrenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.GuilimallProductApplicationTests" />
+      <item itemvalue="Spring Boot.GulimallCouponApplication" />
+      <item itemvalue="Spring Boot.GulimallMemberApplication" />
+      <item itemvalue="Spring Boot.GulimallOrderApplication" />
+      <item itemvalue="Spring Boot.GulimallProductApplication" />
+      <item itemvalue="Spring Boot.GulimallWareApplication" />
+      <item itemvalue="Spring Boot.RenrenApplication" />
+      <item itemvalue="Spring Boot.RenrenApplication (1)" />
+      <item itemvalue="Spring Boot.GulimallGatewayApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GulimallGatewayApplication" />
+        <item itemvalue="Spring Boot.RenrenApplication (1)" />
+        <item itemvalue="JUnit.GuilimallProductApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd06febe-9b17-430b-9e80-45b1dbc4ca0d" name="Default Changelist" comment="" />
+      <created>1599286638068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599286638068</updated>
+      <workItem from="1599286640366" duration="929000" />
+      <workItem from="1599287577587" duration="638000" />
+      <workItem from="1599288222202" duration="5927000" />
+      <workItem from="1599304765860" duration="4485000" />
+      <workItem from="1599358367562" duration="764000" />
+      <workItem from="1599377016629" duration="2766000" />
+      <workItem from="1599379845060" duration="8894000" />
+      <workItem from="1600088597752" duration="3237000" />
+      <workItem from="1600527179313" duration="2844000" />
+      <workItem from="1600598616489" duration="716000" />
+      <workItem from="1600599426274" duration="98000" />
+      <workItem from="1600599530628" duration="584000" />
+      <workItem from="1600600151518" duration="691000" />
+      <workItem from="1600600971861" duration="2660000" />
+    </task>
+    <task id="LOCAL-00001" summary="项目初始结构创建">
+      <created>1599289077411</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599289077411</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="项目初始结构创建" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目初始结构创建" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="806" y="209" key="#Inspections" timestamp="1599358199269">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state x="806" y="209" key="#Inspections/1788.1463.1280.777/-1920.242.1920.1057/0.23.2560.1368@0.23.2560.1368" timestamp="1599358199269" />
+    <state x="536" y="23" key="#Project_Structure" timestamp="1599393464262">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state x="536" y="23" key="#Project_Structure/1788.1463.1280.777/-1920.242.1920.1057/0.23.2560.1368@0.23.2560.1368" timestamp="1599393464262" />
+    <state x="636" y="192" width="1396" height="806" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600602234508">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state x="636" y="192" width="1396" height="806" key="#com.intellij.execution.impl.EditConfigurationsDialog/1788.1463.1280.777/-1920.242.1920.1057/0.23.2560.1368@0.23.2560.1368" timestamp="1600602234508" />
+    <state x="663" y="33" key="CommitChangelistDialog2" timestamp="1599289076990">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state x="663" y="33" key="CommitChangelistDialog2/1788.1463.1280.777/-1920.242.1920.1057/0.23.2560.1368@0.23.2560.1368" timestamp="1599289076990" />
+    <state width="1328" height="253" key="GridCell.Tab.0.bottom" timestamp="1600603199668">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state width="1979" height="253" key="GridCell.Tab.0.bottom/1788.1463.1280.728/-1920.242.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599401259098" />
+    <state width="1328" height="253" key="GridCell.Tab.0.bottom/1788.1463.1280.777/-1920.242.1920.1057/0.23.2560.1368@0.23.2560.1368" timestamp="1600603199668" />
+    <state width="1328" height="253" key="GridCell.Tab.0.center" timestamp="1600603199666">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state width="1979" height="253" key="GridCell.Tab.0.center/1788.1463.1280.728/-1920.242.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599401259097" />
+    <state width="1328" height="253" key="GridCell.Tab.0.center/1788.1463.1280.777/-1920.242.1920.1057/0.23.2560.1368@0.23.2560.1368" timestamp="1600603199666" />
+    <state width="1328" height="253" key="GridCell.Tab.0.left" timestamp="1600603199664">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state width="1979" height="253" key="GridCell.Tab.0.left/1788.1463.1280.728/-1920.242.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599401259096" />
+    <state width="1328" height="253" key="GridCell.Tab.0.left/1788.1463.1280.777/-1920.242.1920.1057/0.23.2560.1368@0.23.2560.1368" timestamp="1600603199664" />
+    <state width="1328" height="253" key="GridCell.Tab.0.right" timestamp="1600603199667">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state width="1979" height="253" key="GridCell.Tab.0.right/1788.1463.1280.728/-1920.242.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599401259097" />
+    <state width="1328" height="253" key="GridCell.Tab.0.right/1788.1463.1280.777/-1920.242.1920.1057/0.23.2560.1368@0.23.2560.1368" timestamp="1600603199667" />
+    <state width="1328" height="253" key="GridCell.Tab.1.bottom" timestamp="1600603199672">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state width="1979" height="253" key="GridCell.Tab.1.bottom/1788.1463.1280.728/-1920.242.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599401259101" />
+    <state width="1328" height="253" key="GridCell.Tab.1.bottom/1788.1463.1280.777/-1920.242.1920.1057/0.23.2560.1368@0.23.2560.1368" timestamp="1600603199672" />
+    <state width="1328" height="253" key="GridCell.Tab.1.center" timestamp="1600603199670">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state width="1979" height="253" key="GridCell.Tab.1.center/1788.1463.1280.728/-1920.242.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599401259099" />
+    <state width="1328" height="253" key="GridCell.Tab.1.center/1788.1463.1280.777/-1920.242.1920.1057/0.23.2560.1368@0.23.2560.1368" timestamp="1600603199670" />
+    <state width="1328" height="253" key="GridCell.Tab.1.left" timestamp="1600603199669">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state width="1979" height="253" key="GridCell.Tab.1.left/1788.1463.1280.728/-1920.242.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599401259099" />
+    <state width="1328" height="253" key="GridCell.Tab.1.left/1788.1463.1280.777/-1920.242.1920.1057/0.23.2560.1368@0.23.2560.1368" timestamp="1600603199669" />
+    <state width="1328" height="253" key="GridCell.Tab.1.right" timestamp="1600603199671">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state width="1979" height="253" key="GridCell.Tab.1.right/1788.1463.1280.728/-1920.242.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1599401259100" />
+    <state width="1328" height="253" key="GridCell.Tab.1.right/1788.1463.1280.777/-1920.242.1920.1057/0.23.2560.1368@0.23.2560.1368" timestamp="1600603199671" />
+    <state x="599" y="117" key="Maven.ArtifactSearchDialog" timestamp="1599292813830">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state x="599" y="117" key="Maven.ArtifactSearchDialog/1788.1463.1280.777/-1920.242.1920.1057/0.23.2560.1368@0.23.2560.1368" timestamp="1599292813830" />
+    <state x="743" y="185" key="NewModule_or_Project.wizard" timestamp="1600601850046">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state x="743" y="185" key="NewModule_or_Project.wizard/1788.1463.1280.777/-1920.242.1920.1057/0.23.2560.1368@0.23.2560.1368" timestamp="1600601850046" />
+    <state x="536" y="23" key="SettingsEditor" timestamp="1600601852668">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state x="536" y="23" key="SettingsEditor/1788.1463.1280.777/-1920.242.1920.1057/0.23.2560.1368@0.23.2560.1368" timestamp="1600601852668" />
+    <state x="260" y="144" width="1831" height="787" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1600601632994">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state x="260" y="144" width="1831" height="787" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/1788.1463.1280.777/-1920.242.1920.1057/0.23.2560.1368@0.23.2560.1368" timestamp="1600601632994" />
+    <state x="811" y="229" width="730" height="616" key="find.popup" timestamp="1600600637818">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state x="811" y="229" width="730" height="616" key="find.popup/1788.1463.1280.777/-1920.242.1920.1057/0.23.2560.1368@0.23.2560.1368" timestamp="1600600637818" />
+    <state x="789" y="123" key="new project wizard" timestamp="1600601681526">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state x="789" y="123" key="new project wizard/1788.1463.1280.777/-1920.242.1920.1057/0.23.2560.1368@0.23.2560.1368" timestamp="1600601681526" />
+    <state x="756" y="254" width="838" height="1032" key="search.everywhere.popup" timestamp="1600599920499">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state x="756" y="254" width="838" height="1032" key="search.everywhere.popup/1788.1463.1280.777/-1920.242.1920.1057/0.23.2560.1368@0.23.2560.1368" timestamp="1600599920499" />
+  </component>
+</project>
